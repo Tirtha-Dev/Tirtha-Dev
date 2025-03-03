@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Tirtha Ghara
 
-<!--
-**Tirtha-Dev/Tirtha-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 3rd year BE-CSE student
+- 🎵 Creator of a **music remix website** that converts normal songs into remixable versions
+- 🏡 Aspiring **real estate entrepreneur** (goal: start a real estate business in 5 years)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills & Interests
+- 💻 Programming: Python, JavaScript, Web Development
+- 🎶 Music remixing & audio processing
+- 📊 Business & entrepreneurship
+
+## 📌 Projects
+- **[Music Remix Website](#)** - Converts normal songs into remixable versions
+
+## 📫 Contact Me
+- 💌 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 LinkedIn: [Your LinkedIn Profile](#)
+- 🐦 Twitter: [@yourhandle](#)
+
+Thanks for visiting my profile! 🚀
