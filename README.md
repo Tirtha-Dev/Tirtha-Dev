@@ -15,8 +15,8 @@
 - **[Music Remix Website](#)** - Converts normal songs into remixable versions
 
 ## 📫 Contact Me
-- 💌 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)
-- 🐦 Twitter: [@yourhandle](#)
+- 💌 Email:[tirthajj@gmail.com] (mail to:tirthajj@gmail.com)
+- 🔗 LinkedIn: [www.linkedin.com/in/tirtha-ghara-0aa558296]
+- 🐦 Twitter-X: [@Tirtha-Rdx]
 
 Thanks for visiting my profile! 🚀
