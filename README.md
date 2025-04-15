@@ -17,6 +17,6 @@
 ## 📫 Contact Me
 - 💌 Email:[tirthajj@gmail.com] (mail to:tirthajj@gmail.com)
 - 🔗 LinkedIn: [www.linkedin.com/in/tirtha-ghara-0aa558296]
-- 🐦 Twitter-X: [@Tirtha-Rdx]
+- 🐦 Twitter-X: [@httpa://x.com/Tirtha-Rdx]
 
 Thanks for visiting my profile! 🚀
