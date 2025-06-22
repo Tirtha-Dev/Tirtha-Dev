@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd year BE-CSE student
+- 🎓 Final year BE-CSE student
 - 🎵 Creator of a **music remix website** that converts normal songs into remixable versions
 - 🏡 Aspiring **real estate entrepreneur** (goal: start a real estate business in 5 years)
 
